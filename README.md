@@ -22,7 +22,7 @@ Tantas meetups erraram, e é tão simples. Não deve ser nada extravagante ou lo
 * Tenha uma boa cobertura de Wifi
 * Tenha cabos de extensão.
 * Tenha alguns adptatores de tomada.
-* Tenha aguá e comida.
+* Tenha água e comida.
 * Tenha assentos confortaveis.
 * Tenha Local quieto
 ## Comida
